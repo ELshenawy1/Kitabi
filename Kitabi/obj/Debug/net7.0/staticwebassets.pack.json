@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Kitabi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Kitabi.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\01688a17-d905-488f-ac38-6e278cf6369b.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\01688a17-d905-488f-ac38-6e278cf6369b.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\02525e0f-ed0f-4273-bb45-877e0b7ecd15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\02525e0f-ed0f-4273-bb45-877e0b7ecd15.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\05f73e90-29cd-4ed0-a01b-c770880e6719.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\05f73e90-29cd-4ed0-a01b-c770880e6719.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\0a65bd6c-dfe1-456f-99ab-a73c2783c8b1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\0a65bd6c-dfe1-456f-99ab-a73c2783c8b1.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\117008e0-fc7d-4839-98ae-fe85efc60272.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\117008e0-fc7d-4839-98ae-fe85efc60272.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\126f6f00-735a-4fbb-b00a-a5337480fea2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\126f6f00-735a-4fbb-b00a-a5337480fea2.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\1e15016c-4d18-4c02-bda6-4be16a934bd9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\1e15016c-4d18-4c02-bda6-4be16a934bd9.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\1e2a2698-2632-4edb-b187-3e62bafd6d03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\1e2a2698-2632-4edb-b187-3e62bafd6d03.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\269d9366-dba3-4609-9379-87e54d0d9c97.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\269d9366-dba3-4609-9379-87e54d0d9c97.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\3579912e-312e-4f76-a8ae-b8b01d4a4e7e.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\3579912e-312e-4f76-a8ae-b8b01d4a4e7e.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\38b1fb3f-9e1d-4a36-8d16-ff95de6644b5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\38b1fb3f-9e1d-4a36-8d16-ff95de6644b5.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\38f2cc76-2804-46b1-b082-cd59728a958b.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\38f2cc76-2804-46b1-b082-cd59728a958b.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\390b8595-ff70-44a4-8bb0-511634729323.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\390b8595-ff70-44a4-8bb0-511634729323.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\46bb66d8-a221-4f3f-995f-de2b2a8ec7db.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\46bb66d8-a221-4f3f-995f-de2b2a8ec7db.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\66e9f9d3-db8b-4fa9-8a3a-cc71786418bb.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\66e9f9d3-db8b-4fa9-8a3a-cc71786418bb.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\820506b2-9912-4706-b50e-644ed101a865.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\820506b2-9912-4706-b50e-644ed101a865.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\8344af14-b539-4e11-80d1-c52a51c34b4c.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\8344af14-b539-4e11-80d1-c52a51c34b4c.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\8bbc207c-00ce-4ab2-a048-237f876e1478.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\8bbc207c-00ce-4ab2-a048-237f876e1478.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\8e17a88c-32cf-4616-acc4-434ee29acca1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\8e17a88c-32cf-4616-acc4-434ee29acca1.jpeg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\9721624b-6158-4f71-9daa-887c0505b79c.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\9721624b-6158-4f71-9daa-887c0505b79c.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\9e743b19-bab9-423a-8abe-4d3ad31cedd3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\9e743b19-bab9-423a-8abe-4d3ad31cedd3.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\PlusSign.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\PlusSign.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\ab2e10cf-16fd-4f6b-9e8f-6f89dee84a26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\ab2e10cf-16fd-4f6b-9e8f-6f89dee84a26.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\b5cf0a69-3e5d-4ae6-b2ab-145b61697c76.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\b5cf0a69-3e5d-4ae6-b2ab-145b61697c76.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\c13e9f2f-4435-4570-93b7-da954bfb5bab.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\c13e9f2f-4435-4570-93b7-da954bfb5bab.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\c23ed12f-d9e5-4391-a474-d725894c41c9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\c23ed12f-d9e5-4391-a474-d725894c41c9.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\c90dece1-a359-4a5e-99c4-219539317cdc.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\c90dece1-a359-4a5e-99c4-219539317cdc.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\cc011dd8-e114-4d1a-9f7a-f3e406641f20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\cc011dd8-e114-4d1a-9f7a-f3e406641f20.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\d1a1047b-d910-44c7-8abb-0b9d1739558f.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\d1a1047b-d910-44c7-8abb-0b9d1739558f.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\dad40f5b-9258-43b0-826a-08c3d1402fb1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\dad40f5b-9258-43b0-826a-08c3d1402fb1.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\db707f0e-e8ec-4e54-9b62-bffe2f51ed46.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\db707f0e-e8ec-4e54-9b62-bffe2f51ed46.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\assets\\images\\bookcovers\\f2bf22ea-dd4c-497d-be75-e576c0f911d6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bookcovers\\f2bf22ea-dd4c-497d-be75-e576c0f911d6.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\js\\book-delete.js",
+      "PackagePath": "staticwebassets\\js\\book-delete.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\js\\book-form.js",
+      "PackagePath": "staticwebassets\\js\\book-form.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Kitabi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Kitabi.props",
+      "PackagePath": "build\\Kitabi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Kitabi.props",
+      "PackagePath": "buildMultiTargeting\\Kitabi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Kitabi.props",
+      "PackagePath": "buildTransitive\\Kitabi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

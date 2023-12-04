@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "Requests";
+}
+
+
+
+
+@if (!Model.Any())
+{
+    <div class="alert  alert-warning">
+        <h4 class="alert-heading">No Requests!</h4>
+        <p class="mb-0">No Categories Requests yet.</p>
+    </div>
+}
+else
+{
+
+    <div class="container mt-4">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="mt-3">
+                    <table class="table table-hover ">
+                        <tbody>
+                            @foreach (var category in Model)
+                            {
+                                <tr class="table-secondary" id="@category.ID">
+                                    <td>
+                                        <div class="d-flex">
+                                            <div class="d-flex flex-column justify-content-center ">
+                                                <legend>@category.Name</legend>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td class="align-middle">
+                                        <div class="d-flex justify-content-end">
+                                            <a onclick="Confirm(@category.ID)" class="btn btn-success me-2"><i class="bi bi-check-lg"></i></a>
+                                            <a class="btn btn-danger me-4" onclick="Reject(@category.ID)"><i class="bi bi-x-lg"></i></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+}
+
+
+@section Scripts{
+    <script>
+        function Confirm(val) {
+            console.log(val)
+
+            $.ajax({
+                url: "/Categories/Confirm/" + val,
+                success: function (result) {
+                    document.getElementById(val).remove();
+                }
+            });
+
+        }
+        function Reject(val) {
+            console.log(val);
+            $.ajax({
+                url: "/Categories/Delete/" + val,
+                success: function (result) {
+                    document.getElementById(val).remove();
+                }
+            });
+
+        }
+
+    </script>
+}

@@ -1,0 +1,44 @@
+﻿@using Kitabi.Settings;
+@model IEnumerable<Book>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (!Model.Any())
+{
+    <div class="alert  alert-warning">
+        <h4 class="alert-heading">No Books!</h4>
+        <p class="mb-0">No books were added yet.</p>
+    </div>
+}else{
+    <div class="row mt-5">
+        @foreach(var book in Model)
+        {
+            <div class="col-lg-4 col-md-6">
+                <a class="card overflow-hidden border-info mb-3" asp-action="Details" asp-controller="Books" asp-route-id="@book.ID">
+                    <div class="card-body" style="background-image: url(@($"{FileSettings.ImagesPath}/{book.Cover}")); background-size:cover; background-position:center; height:500px">
+                        <div class="h-100">
+                            <span class="badge bg-info">@book.Category.Name</span>
+                        </div>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between align-items-center">
+                        <legend style="font-size:20px" class="text-center">@book.Name</legend>
+                    </div>
+                </a>
+            </div>
+        }
+        <div class="col-lg-4 col-md-6">
+            <a class="card overflow-hidden border-dark mb-3" asp-action="Create" asp-controller="Books">
+                <div class="card-body" style="background-image: url(@($"{FileSettings.ImagesPath}/PlusSign.jpg")); background-size:cover; background-position:center; height:500px">
+@*                    <div class="h-100">
+                        <span class="badge bg-info">@book.Category.Name</span>
+                    </div>
+*@                </div>
+                <div class="card-footer d-flex justify-content-between align-items-center">
+                    <legend style="font-size:20px" class="text-center">Add New Book</legend>
+                </div>
+            </a>
+        </div>
+
+    </div>
+}
