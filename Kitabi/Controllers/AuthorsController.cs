@@ -17,18 +17,52 @@ namespace Kitabi.Controllers
             authorService = _authorService;
             bookAuthrosService = _bookAuthrosService;
         }
+
+
         public IActionResult Requests()
         {
             return View(authorService.GetAllRequests());
         }
+
+
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            EditAuthorViewModel vm = new () { AuthorName = authorService.GetByID(id).Name };
+            return View(vm);
+        }
+
+
+        [HttpPost]
+        public IActionResult Edit(int id, string AuthorName)
+        {
+            if (ModelState.IsValid)
+            {
+                authorService.Edit(id, AuthorName);
+                 return RedirectToAction("IndexAdminView");
+            }
+            return View(new EditAuthorViewModel() { AuthorName = AuthorName});
+        }
+
+
+        public IActionResult IndexAdminView()
+        {
+            return View(authorService.GetAll());
+        }
+
+
         public IActionResult Index()
         {
             return View(authorService.GetAll());
         }
+
+
         public IActionResult GetAuthorBooks(int id)
         {
             return Json(bookAuthrosService.GetAuthorBooks(id));
         }
+
+
         [HttpGet]
         [Authorize]
         public IActionResult Create()

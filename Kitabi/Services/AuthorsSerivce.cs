@@ -34,6 +34,13 @@ namespace Kitabi.Services
             context.SaveChanges();
         }
 
+        public void Edit(int id, string newName)
+        {
+            Author auth = context.Authors.SingleOrDefault(a => a.ID == id);
+            auth.Name = newName;
+            context.SaveChanges();
+        }
+
         public IEnumerable<Author> GetAll()
         {
             return context.Authors.Where(a => a.Confirmed == true).ToList();
@@ -50,6 +57,11 @@ namespace Kitabi.Services
                 .OrderBy(a => a.Text)
                 .AsNoTracking()
                 .ToList();
+        }
+
+        public Author GetByID(int id)
+        {
+            return context.Authors.SingleOrDefault(a => a.ID == id);
         }
 
         public bool Remove(int authorid)
