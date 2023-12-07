@@ -13,5 +13,7 @@ namespace Kitabi.Services
         IEnumerable<SelectListItem> GetCategoriesSelectList();
         bool Confirm(int cotegoryid);
         bool Remove(int categoryid);
+        Category GetByID(int id);
+        void Edit(int id, string newName);
     }
 }

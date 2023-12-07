@@ -22,13 +22,13 @@
                 }
                 
                 <li class="nav-item">
-                    <a class="nav-link @(controllerName == "Categories" && actionName == "Index" ? "active" : "") " asp-action="Index" asp-controller="Categories">
+                    <a class="nav-link @(controllerName == "Categories" && (actionName == "Index"||actionName == "IndexAdminView") ? "active" : "") " asp-action="@( User.IsInRole("Admin") ? "IndexAdminView" : "Index")" asp-controller="Categories">
                         Categories
                         <span class="visually-hidden">(current)</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link @((controllerName == "Authors" && actionName == "Index") ? "active" : "")" asp-action="Index" asp-controller="Authors">
+                    <a class="nav-link @((controllerName == "Authors" && (actionName == "Index"||actionName == "IndexAdminView")) ? "active" : "")" asp-action="@( User.IsInRole("Admin") ? "IndexAdminView" : "Index")" asp-controller="Authors">
                         Authors
                         <span class="visually-hidden">(current)</span>
                     </a>

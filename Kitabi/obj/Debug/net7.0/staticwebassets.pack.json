@@ -153,6 +153,10 @@
       "PackagePath": "staticwebassets\\js\\book-form.js"
     },
     {
+      "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\js\\generic-delete.js",
+      "PackagePath": "staticwebassets\\js\\generic-delete.js"
+    },
+    {
       "Id": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

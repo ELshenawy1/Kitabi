@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jkOP/0kNy+2hTTGcGV3uLsVYImoORIDP+ZE2bCn8dWs=",
+  "Hash": "Wa3dg+m0wgq3CUEEhmL3uHYuooUsNXa3WBYbMe9v/2w=",
   "Source": "Kitabi",
   "BasePath": "_content/Kitabi",
   "Mode": "Default",
@@ -678,6 +678,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\book-form.js"
+    },
+    {
+      "Identity": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\js\\generic-delete.js",
+      "SourceId": "Kitabi",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\",
+      "BasePath": "_content/Kitabi",
+      "RelativePath": "js/generic-delete.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\generic-delete.js"
     },
     {
       "Identity": "F:\\Projects\\Kitabi\\Kitabi\\wwwroot\\js\\site.js",

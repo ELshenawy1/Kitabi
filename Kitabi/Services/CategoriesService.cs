@@ -12,7 +12,10 @@ namespace Kitabi.Services
         {
             context = _context;
         }
-
+        public Category GetByID(int id)
+        {
+            return context.Categories.SingleOrDefault(c => c.ID == id);
+        }
         public bool CheckCategory(string categoryName)
         {
             Category? c = context.Categories.FirstOrDefault(c => c.Name == categoryName);
@@ -44,6 +47,8 @@ namespace Kitabi.Services
             return context.Categories.Where(c => c.Confirmed == false).ToList();
         }
 
+        
+
         public IEnumerable<SelectListItem> GetCategoriesSelectList()
         {
             return context.Categories
@@ -59,6 +64,13 @@ namespace Kitabi.Services
             Category category = context.Categories.SingleOrDefault(c=> c.ID == categoryid);
             context.Categories.Remove(category);
             return (context.SaveChanges() > 0) ? true : false;
+        }
+
+        public void Edit(int id, string newName)
+        {
+            Category cat =  context.Categories.SingleOrDefault(c => c.ID == id);
+            cat.Name = newName;
+            context.SaveChanges();
         }
     }
 }
